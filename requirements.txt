@@ -1,2 +1,2 @@
 pip install streamlit  # install streamlit
-pip install pyngrok==4.1.1  # install pyngrok
+
