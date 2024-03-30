@@ -11,7 +11,7 @@ def main():
     st.write("Feel free to customize it with your own content!")
 
     # Add sections or components as needed
-    st.header("About Me")
+    st.header("yo soy aquel")
     st.write("I am a passionate developer and love creating cool things with code.")
     st.write("In my free time, I enjoy hiking, playing guitar, and exploring new technologies.")
 
