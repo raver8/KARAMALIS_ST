@@ -1,2 +1,6 @@
-# install streamlit
+streamlit # install streamlit
+pandas
+numpy
+...
+
 
