@@ -1,4 +1,4 @@
-pip install streamlit # install streamlit
+streamlit # install streamlit
 
 
 
